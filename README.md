@@ -14,3 +14,11 @@ The practical sessions will be conducted using **Colab notebooks**. In case requ
 ### Resource
 The exercises are based on the following publication:
 [Krug et al.,Cell, 2020](https://www.sciencedirect.com/science/article/pii/S0092867420314008)
+
+### Contributors
+• Peter Doubleday
+• Valentina Cappelletti
+• Correa Marrero Miguel
+• Ramon Pfändler
+• Jürgen Jänes
+
