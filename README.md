@@ -17,7 +17,7 @@ The exercises are based on ([Krug et al., 2020](https://doi.org/10.1016/j.cell.2
 ### Contributors
 - Peter Doubleday
 - Valentina Cappelletti
-- Correa Marrero Miguel
+- Miguel Correa Marrero
 - Ramon Pfändler
 - Jürgen Jänes
 
