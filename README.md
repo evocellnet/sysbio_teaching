@@ -6,7 +6,7 @@ The practical sessions will be conducted using **Colab notebooks**. In case requ
 
 ### Overview of Exercise Content and Schedule
 - **25.04**: **EX9**, Introduction to univariate analysis [Open in Colab](https://colab.research.google.com/github/evocellnet/sysbio_teaching/blob/main/04.25_Intro_to_univariate_analysis/Lesson_01_sys_bio_CPTAC_BRC_for_students_mod.ipynb)
-- **02.05**: **Ex10**, Gene enrichment analysis
+- **02.05**: **Ex10**, Gene enrichment analysis  [Open in Colab](https://colab.research.google.com/github/evocellnet/sysbio_teaching/blob/main/05.02_Gene_Enrichment_Analysis/Ex10_Enrichment_analysis.ipynb)
 - **09.05**: **Ex11**, Clustering analysis
 - **16.05**: **Ex12**, ROC, PR curves
 - **23.05**: **Ex13**, Supervised learning
