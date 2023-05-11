@@ -12,7 +12,7 @@ The practical sessions will be conducted using **Colab notebooks**. In case requ
 - **23.05**: **Ex13**, Supervised learning
 
 ### Resource
-The exercises are based on ([Krug et al., 2020](https://doi.org/10.1016/j.cell.2020.10.036)).
+The exercises use omics data from different publications: [Krug et al., Cell, 2020](https://doi.org/10.1016/j.cell.2020.10.036); [Mertins et al., Nature, 2016](https://www.nature.com/articles/nature18003)
 
 ### Contributors
 - Peter Doubleday
