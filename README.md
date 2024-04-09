@@ -6,11 +6,11 @@ The practical sessions will be conducted using **Colab notebooks**. In case requ
 
 ### Overview of Exercise Content and Schedule
 - **23.04**: **EX9**, Introduction to univariate analysis
-- **03.05**: **Ex10**, Gene enrichment analysis
-- **09.05**: **Ex11**, Clustering analysis
-- **09.05**: **Ex11**, Clustering analysis
-- **16.05**: **Ex12**, ROC, PR curves
-- **23.05**: **Ex13**, Supervised learning
+- **30.04**: **Ex10**, Gene Set Enrichment Analysis
+- **07.05**: **Ex11**, Feature selection
+- **14.05**: **Ex11**, Unsupervised learning
+- **21.05**: **Ex12**, Classification evaluation
+- **28.05**: **Ex13**, Supervised learning
 
 ### Contributors
 - Peter Doubleday
