@@ -12,6 +12,8 @@ The practical sessions will be conducted using **Colab notebooks**. In case requ
 - **21.05**: **Ex12**, Classification evaluation
 - **28.05**: **Ex13**, Supervised learning
 
+We are updating the notebooks and will add them to the repository on an ongoing basis. The notebooks from 2023 are still available [in the repository history](https://github.com/evocellnet/sysbio_teaching/tree/932546e42247351ed52bf7e644bf25b63103b1cf).
+
 ### Contributors
 - Peter Doubleday
 - Valentina Cappelletti
